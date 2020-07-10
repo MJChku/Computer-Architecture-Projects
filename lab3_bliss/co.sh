@@ -1,0 +1,1 @@
+./ramulator configs/DDR4-config.cfg --mode=cpu --stats bliss_8.stat ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace ./traces/high-mem-intensity.trace

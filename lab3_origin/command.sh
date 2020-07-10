@@ -1,0 +1,1 @@
+./ramulator configs/DDR4-config.cfg --mode=cpu --stats atlas_HLLL.stat ./traces/high-mem-intensity.trace ./traces/low-mem-intensity.trace ./traces/low-mem-intensity.trace ./traces/low-mem-intensity.trace
